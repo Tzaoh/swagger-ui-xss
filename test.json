@@ -1,0 +1,10 @@
+{
+    "url": "https://3.249.173.75/test.yaml",
+    "urls": [{
+        "url": "https://3.249.173.75/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://3.249.173.75/test2.yaml",
+        "name": "Foo2"
+    }]
+}
